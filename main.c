@@ -6,7 +6,6 @@
 #include <stdint.h>
 #include <math.h>
 #include "rtl-sdr.h"
-#include "zip.h"
 
 rtlsdr_dev_t* dev = NULL;
 
